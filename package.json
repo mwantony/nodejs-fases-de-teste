@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-fases-de-teste",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mwantony/nodejs-fases-de-teste.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mwantony/nodejs-fases-de-teste/issues"
+  },
+  "homepage": "https://github.com/mwantony/nodejs-fases-de-teste#readme",
+  "devDependencies": {
+    "eslint": "^8.22.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  }
+}
